@@ -12,6 +12,7 @@ const config: Config = {
         'jr-gray-500': '#737974',
         'jr-blue-500': '#8caaee',
         'jr-blue-900': '#303446',
+        'jr-gray-900': '#101218',
       },
       width: {
         120: '30rem',

@@ -31,8 +31,8 @@ export const Header = () => {
             </button>
             <nav className="hidden md:flex items-center gap-10 text-md">
                 <Link href="/">Sobre mim</Link>
-                {/*<Link href="/portfolio">Portfolio</Link>*/}
                 <Link href="/contatos">Entre em contato</Link>
+                <Link href="https://www.jairjr.dev" target="_blank">Site</Link>
             </nav>
             <Menu isVisible={isMenuOpen} onClose={closeMenu}/>
         </header>

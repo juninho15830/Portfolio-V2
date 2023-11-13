@@ -30,8 +30,8 @@ export const Menu = ({ isVisible, onClose}: MenuProps) => {
                 </div>
                 <nav className="flex flex-col gap-5 text-xl p-5 items-center">
                 <Link href="/" onClick={onClose}>Sobre mim</Link>
-                {/*<Link href="/portfolio" onClick={onClose}>Portfolio</Link>*/}
                 <Link href="/contatos" onClick={onClose}>Entre em contato</Link>
+                <Link href="https://www.jairjr.dev" onClick={onClose} target="_blank">Site</Link>
                 </nav>
             </div>
         </div>

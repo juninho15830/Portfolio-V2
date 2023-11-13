@@ -7,7 +7,7 @@ const Contatos = () => {
             <Head>
                 <title>Contato | Jair</title>
             </Head>
-            <div className="mt-12 md:mt-24 space-y-8 md:space-y-16 px-6 md:px32">
+            <div className="mt-12 md:mt-24 space-y-8 md:space-y-16 px-6 md:px32 mb-20">
                 <h1 className="text-5xl md:text-7xl font-bold text-center">Contato</h1>
                 <ul className="table mx-auto space-y-6 md:space-y-8">
                     <li className="md:text-xl">
