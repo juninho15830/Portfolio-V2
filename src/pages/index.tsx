@@ -30,6 +30,14 @@ const Home = () => {
       },
     },
     {
+      slug: 'https://juninho15830.github.io/Curso-Web-Full-Stack/Front-End/HTML-CSS/Projeto-02/',
+      name: 'Página de Academia',
+      image: {
+        url: 'https://i.imgur.com/vXWoLGx.png',
+        alt: 'Página de apresentação de uma academia',
+      },
+    },
+    {
       slug: 'https://juninho15830.github.io/Curso-Web-Full-Stack/Front-End/HTML-CSS/Projeto-03/',
       name: 'Formulário',
       image: {
